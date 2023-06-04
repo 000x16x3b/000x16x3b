@@ -9,7 +9,7 @@
 
 - 👨‍💻 Ui tasarimlarim [https://www.figma.com/@minikayicuhv5](https://www.figma.com/@minikayicuhv5)
 
-- 📝 Eğer sende Benim Gibi olmak isdiyorsan [https://discord.gg/turk](https://discord.gg/turk)
+- 📝 Eğer sende Benim Gibi olmak isdiyorsan [https://discord.gg/turk](https://discord.gg/ayicuh)
 
 - 📫 Bana Nasil ulaşirsiniz ? **minikayicuh1@gmail.com**
 
