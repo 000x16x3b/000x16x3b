@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba👋 Ben Aziz Kapucu (MinikAyicuhV5)</h1>
-<h3 align="center">UĞRAMAK, KAREDINIZ</h3>
+<h3 align="center">UĞRAMAK, KADERINIZ</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=000x16x3b&label=Profile%20views&color=0e75b6&style=flat" alt="000x16x3b" /> </p>
 
